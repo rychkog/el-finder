@@ -1,0 +1,19 @@
+{
+  "name": "agile-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/main --"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "jsdom": "^16.2.2"
+  }
+}
